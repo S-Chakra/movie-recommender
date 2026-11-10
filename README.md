@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-A hybrid recommender that predicts how users will rate movies, built for CS 484 (Data Mining) at George Mason University.
+A hybrid recommender that predicts how users will rate movies.
 
 ## What it does
 - Loads 641,699 ratings and maps 2,113 users and 10,001 movies to indices
